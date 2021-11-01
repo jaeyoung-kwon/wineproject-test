@@ -1,0 +1,28 @@
+.Buttonssss {
+  display: flex;
+  height: 900px;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../image/wine5.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.Buttonsss {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Buttonss {
+  display: flex;
+  justify-content: center;
+  font-size: 28px;
+  margin: 40px;
+  padding: 10px;
+  border-radius: 30px;
+  border: 2px solid white;
+  opacity: 0.8;
+  color: white;
+}
